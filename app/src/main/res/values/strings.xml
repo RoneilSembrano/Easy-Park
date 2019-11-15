@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EasyPark</string>
+    <string name="string">StudentID</string>
+    <string name="StudentID">StudentID</string>
+    <string name="Password">Password</string>
+    <string name="Not_signup">Not Sign Up yet</string>
+    <string name="register">Register</string>
+    <string name="Not_SignUp">Not Sign Up?</string>
+    <string name="Already_registered">Already registered!</string>
+    <string name="Login">login</string>
+    <string name="Confirm_password">ComfirmPassword</string>
+    <string name="Email">EmailAddress</string>
+
+    <string name="login">LOGIN</string>
+    <string name="studentid">Username</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="Register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="FullTimeStudent">Are you a full-time student?</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="Select">Select</string>
+    <string name="Hello">Hello World</string>
+    <string name="what_days_are_your_classes">What days are your classes?</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="are_you_a_part_time_student">Are you a part-time student?</string>
+    <string name="s_mw_commuter_virtual_fall_semester_2_day_per_week_permit_valid_8_16_19_12_31_19">‘S’ MW Commuter Virtual Fall Semester 2-day per week Permit (valid 8/16/19-12/31/19)</string>
+    <string name="FullTimeSelect">Select a Parking Permit</string>
+    <string name="YearPermit">Year Permit</string>
+    <string name="SemPermit">Semester Permit</string>
+    <string name="YearPermitText">Virtual Year Permit (Valid Fall 2019 and Spring 2020)</string>
+</resources>
