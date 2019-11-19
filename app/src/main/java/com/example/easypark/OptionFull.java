@@ -30,6 +30,6 @@ public class OptionFull extends AppCompatActivity  {
             }
         });
 
-
+//new thing
     }
 }
